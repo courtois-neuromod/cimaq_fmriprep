@@ -1,2 +1,4 @@
 [datalad "dataset"]
 	id = f7c45a3c-b092-4926-8627-bc9715ae2261
+[datalad "containers.fmriprep"]
+	image = ../../../../home/fnadeau/projects/rrg-pbellec/containers/fmriprep-20.2.1lts.sif
